@@ -1,13 +1,16 @@
 # Hi, I’m Thomas Rieger
 
-**Software Engineer & Data Scientist Intern**  
-Passionate about **Computer Vision**, **AI systems**, and **data-driven engineering**
+**Software Engineer (Full Stack & AI)**  
+Building **Next.js / TypeScript** web apps, **Python LLM** systems, and **AI model training** pipelines  
+*Previously: Software Engineer & Data Scientist Intern*
 
 ---
 
 ## About Me
 
-- Interested in: deep learning, vision pipelines, NLP, and applied ML
+- Full-stack: Next.js, React, TypeScript, Tailwind, Flask
+- AI: LLM apps & agents, image-model fine-tuning (LoRA), computer vision pipelines
+- Interested in: generative AI, vision, NLP, and shipping ML into real products
 - Reach me: [thomas.rieger.cs@gmail.com](mailto:thomas.rieger.cs@gmail.com)
 
 ---
@@ -16,11 +19,27 @@ Passionate about **Computer Vision**, **AI systems**, and **data-driven engineer
 
 | Area | Stack |
 |-----|------|
-| Languages | Python, GDscript, R, SQL |
-| AI / ML | PyTorch, OpenCV, YOLO, YOLACT, NLP, NER, Scikit-learn |
+| Languages | TypeScript, JavaScript, Python, SQL, Kotlin, Luau, GDScript, R |
+| Frontend | Next.js, React, Tailwind CSS, Radix UI, TanStack Query, Vite |
+| Backend | Node.js, Flask, Drizzle ORM, REST APIs |
+| LLM / GenAI | Vercel AI SDK, Gemini, OpenAI, Claude, RAG, CLIP embeddings, Whisper, LoRA training (Flux / Qwen-Image) |
+| AI / ML | PyTorch, OpenCV, YOLO, SAM 2, YOLACT, ONNX Runtime, NLP, NER, Scikit-learn |
 | Data | Pandas, NumPy, Streamlit |
-| Cloud | Docker, AWS (EC2, S3), Linux |
-| Tools | Git, GitHub, Bash, VS Code |
+| Cloud / DevOps | Vercel, Docker, AWS (EC2, S3), Oracle Cloud, Linux |
+| Tools | Git, GitHub, pnpm, Playwright, Vitest, Bash, VS Code |
+
+---
+
+## Things I’ve Built
+
+- **AI chatbot** – Next.js + Vercel AI SDK chat app with auth, Postgres (Drizzle), and streaming artifacts
+- **Object-ID LoRA training** – dataset building, Gemini-assisted labeling, and LoRA fine-tuning for image editing models
+- **AI Budget Decoration** – CLIP-based visual search that matches room photos to IKEA furniture within a budget
+- **Image layer slicer** – YOLOv8 + SAM 2 pipeline that splits images into object layers
+- **Game automation console** – Flask + React/TypeScript control panel driving ADB, OCR, and OpenCV bots
+- **PhoneCam** – Kotlin/CameraX Android app streaming to a PC virtual webcam over USB
+- **octet-web** – Next.js static site with EN/TH i18n
+- Discord bots (stock alerts, voice), a voice assistant, and Roblox games (Rojo + Luau)
 
 ---
 
@@ -35,11 +54,11 @@ Passionate about **Computer Vision**, **AI systems**, and **data-driven engineer
 
 ## Featured Interests
 
+- Full-Stack Web Engineering
+- LLM Applications & Agents
+- Generative AI & Model Fine-Tuning
 - Computer Vision & Image Understanding
-- Applied AI & ML Engineering
-- Data Science & Analytics
 - Cloud Infrastructure for ML
-- Automation & DevOps
 
 ---
 
@@ -49,4 +68,3 @@ Passionate about **Computer Vision**, **AI systems**, and **data-driven engineer
 - GitHub: https://github.com/ThomasRieger
 
 ---
-
