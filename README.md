@@ -34,10 +34,8 @@ Building **Next.js / TypeScript** web apps, **Python LLM** systems, and **AI mod
 
 - **AI chatbot** – Next.js + Vercel AI SDK chat app with auth, Postgres (Drizzle), and streaming artifacts
 - **Object-ID LoRA training** – dataset building, Gemini-assisted labeling, and LoRA fine-tuning for image editing models
-- **AI Budget Decoration** – CLIP-based visual search that matches room photos to IKEA furniture within a budget
 - **Image layer slicer** – YOLOv8 + SAM 2 pipeline that splits images into object layers
 - **Game automation console** – Flask + React/TypeScript control panel driving ADB, OCR, and OpenCV bots
-- **PhoneCam** – Kotlin/CameraX Android app streaming to a PC virtual webcam over USB
 - **octet-web** – Next.js static site with EN/TH i18n
 - Discord bots (stock alerts, voice), a voice assistant, and Roblox games (Rojo + Luau)
 
