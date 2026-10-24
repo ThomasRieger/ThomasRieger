@@ -48,7 +48,6 @@ Building and scaling **AI-powered features** with **TypeScript** and **Python**:
 
 ## Projects
 
-- **RAG Assistant**: answers questions from university course documents, grounded in the source material
 - **Thai NER**: named entity extraction for historical Thai text (Prince of Songkla University, 2025)
 - **Spoken-to-Formal Thai Formalizer**: converts colloquial Thai into formal written Thai (2024)
 - **AI chatbot**: Next.js + Vercel AI SDK chat app with auth, Postgres (Drizzle), and streaming artifacts
