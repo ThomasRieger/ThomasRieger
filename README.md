@@ -63,11 +63,11 @@ Building and scaling **AI-powered features** with **TypeScript** and **Python**:
 
 ## GitHub Stats (2026)
 
-<a href="https://github.com/ThomasRieger/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomasRieger&show_icons=true&theme=radical&commits_year=2026&show=prs_merged&hide=stars,contribs" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=ThomasRieger&show_icons=true&theme=radical&commits_year=2026&show=prs_merged&hide=stars,contribs" />
 </a>
-<a href="https://github.com/ThomasRieger/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasRieger&langs_count=8&layout=compact&theme=radical" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThomasRieger&langs_count=8&layout=compact&theme=radical" />
 </a>
 
 ---
